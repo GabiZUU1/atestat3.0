@@ -1,0 +1,239 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gabi\\Desktop\\atestat3.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E4CF93D-5F58-48F4-90AC-C0791D7BB748}|atestat3.0\\atestat3.0.csproj|c:\\users\\gabi\\desktop\\atestat3.0\\atestat3.0\\frmjoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E4CF93D-5F58-48F4-90AC-C0791D7BB748}|atestat3.0\\atestat3.0.csproj|solutionrelative:atestat3.0\\frmjoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E4CF93D-5F58-48F4-90AC-C0791D7BB748}|atestat3.0\\atestat3.0.csproj|C:\\Users\\Gabi\\Desktop\\atestat3.0\\atestat3.0\\frmjoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E4CF93D-5F58-48F4-90AC-C0791D7BB748}|atestat3.0\\atestat3.0.csproj|solutionrelative:atestat3.0\\frmjoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E4CF93D-5F58-48F4-90AC-C0791D7BB748}|atestat3.0\\atestat3.0.csproj|C:\\Users\\Gabi\\Desktop\\atestat3.0\\atestat3.0\\gridjoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E4CF93D-5F58-48F4-90AC-C0791D7BB748}|atestat3.0\\atestat3.0.csproj|solutionrelative:atestat3.0\\gridjoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E4CF93D-5F58-48F4-90AC-C0791D7BB748}|atestat3.0\\atestat3.0.csproj|C:\\Users\\Gabi\\Desktop\\atestat3.0\\atestat3.0\\frmadministrareutilizatori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E4CF93D-5F58-48F4-90AC-C0791D7BB748}|atestat3.0\\atestat3.0.csproj|solutionrelative:atestat3.0\\frmadministrareutilizatori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E4CF93D-5F58-48F4-90AC-C0791D7BB748}|atestat3.0\\atestat3.0.csproj|C:\\Users\\Gabi\\Desktop\\atestat3.0\\atestat3.0\\frmadministrareutilizatori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E4CF93D-5F58-48F4-90AC-C0791D7BB748}|atestat3.0\\atestat3.0.csproj|solutionrelative:atestat3.0\\frmadministrareutilizatori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E4CF93D-5F58-48F4-90AC-C0791D7BB748}|atestat3.0\\atestat3.0.csproj|C:\\Users\\Gabi\\Desktop\\atestat3.0\\atestat3.0\\temamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E4CF93D-5F58-48F4-90AC-C0791D7BB748}|atestat3.0\\atestat3.0.csproj|solutionrelative:atestat3.0\\temamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E4CF93D-5F58-48F4-90AC-C0791D7BB748}|atestat3.0\\atestat3.0.csproj|C:\\Users\\Gabi\\Desktop\\atestat3.0\\atestat3.0\\frmalegerebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E4CF93D-5F58-48F4-90AC-C0791D7BB748}|atestat3.0\\atestat3.0.csproj|solutionrelative:atestat3.0\\frmalegerebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E4CF93D-5F58-48F4-90AC-C0791D7BB748}|atestat3.0\\atestat3.0.csproj|C:\\Users\\Gabi\\Desktop\\atestat3.0\\atestat3.0\\frmalegerebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E4CF93D-5F58-48F4-90AC-C0791D7BB748}|atestat3.0\\atestat3.0.csproj|solutionrelative:atestat3.0\\frmalegerebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E4CF93D-5F58-48F4-90AC-C0791D7BB748}|atestat3.0\\atestat3.0.csproj|C:\\Users\\Gabi\\Desktop\\atestat3.0\\atestat3.0\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E4CF93D-5F58-48F4-90AC-C0791D7BB748}|atestat3.0\\atestat3.0.csproj|solutionrelative:atestat3.0\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E4CF93D-5F58-48F4-90AC-C0791D7BB748}|atestat3.0\\atestat3.0.csproj|C:\\Users\\Gabi\\Desktop\\atestat3.0\\atestat3.0\\rebusmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E4CF93D-5F58-48F4-90AC-C0791D7BB748}|atestat3.0\\atestat3.0.csproj|solutionrelative:atestat3.0\\rebusmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E4CF93D-5F58-48F4-90AC-C0791D7BB748}|atestat3.0\\atestat3.0.csproj|C:\\Users\\Gabi\\Desktop\\atestat3.0\\atestat3.0\\rezolvarimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E4CF93D-5F58-48F4-90AC-C0791D7BB748}|atestat3.0\\atestat3.0.csproj|solutionrelative:atestat3.0\\rezolvarimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E4CF93D-5F58-48F4-90AC-C0791D7BB748}|atestat3.0\\atestat3.0.csproj|C:\\Users\\Gabi\\Desktop\\atestat3.0\\atestat3.0\\utilizator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E4CF93D-5F58-48F4-90AC-C0791D7BB748}|atestat3.0\\atestat3.0.csproj|solutionrelative:atestat3.0\\utilizator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E4CF93D-5F58-48F4-90AC-C0791D7BB748}|atestat3.0\\atestat3.0.csproj|C:\\Users\\Gabi\\Desktop\\atestat3.0\\atestat3.0\\important.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E4CF93D-5F58-48F4-90AC-C0791D7BB748}|atestat3.0\\atestat3.0.csproj|solutionrelative:atestat3.0\\important.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 208,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmAdministrareUtilizatori.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Gabi\\Desktop\\atestat3.0\\atestat3.0\\FrmAdministrareUtilizatori.cs",
+              "RelativeDocumentMoniker": "atestat3.0\\FrmAdministrareUtilizatori.cs",
+              "ToolTip": "C:\\Users\\Gabi\\Desktop\\atestat3.0\\atestat3.0\\FrmAdministrareUtilizatori.cs [Design]",
+              "RelativeToolTip": "atestat3.0\\FrmAdministrareUtilizatori.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T12:36:05.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmAdministrareUtilizatori.cs",
+              "DocumentMoniker": "C:\\Users\\Gabi\\Desktop\\atestat3.0\\atestat3.0\\FrmAdministrareUtilizatori.cs",
+              "RelativeDocumentMoniker": "atestat3.0\\FrmAdministrareUtilizatori.cs",
+              "ToolTip": "C:\\Users\\Gabi\\Desktop\\atestat3.0\\atestat3.0\\FrmAdministrareUtilizatori.cs",
+              "RelativeToolTip": "atestat3.0\\FrmAdministrareUtilizatori.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwFsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T12:38:43.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmJoc.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Gabi\\Desktop\\atestat3.0\\atestat3.0\\FrmJoc.cs",
+              "RelativeDocumentMoniker": "atestat3.0\\FrmJoc.cs",
+              "ToolTip": "C:\\Users\\Gabi\\Desktop\\atestat3.0\\atestat3.0\\FrmJoc.cs [Design]",
+              "RelativeToolTip": "atestat3.0\\FrmJoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T08:17:56.444Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmJoc.cs",
+              "DocumentMoniker": "C:\\Users\\Gabi\\Desktop\\atestat3.0\\atestat3.0\\FrmJoc.cs",
+              "RelativeDocumentMoniker": "atestat3.0\\FrmJoc.cs",
+              "ToolTip": "C:\\Users\\Gabi\\Desktop\\atestat3.0\\atestat3.0\\FrmJoc.cs",
+              "RelativeToolTip": "atestat3.0\\FrmJoc.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAiwLIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T09:25:52.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DBManager.cs",
+              "DocumentMoniker": "C:\\Users\\Gabi\\Desktop\\atestat3.0\\atestat3.0\\DBManager.cs",
+              "RelativeDocumentMoniker": "atestat3.0\\DBManager.cs",
+              "ToolTip": "C:\\Users\\Gabi\\Desktop\\atestat3.0\\atestat3.0\\DBManager.cs",
+              "RelativeToolTip": "atestat3.0\\DBManager.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwKQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T06:12:50.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GridJoc.cs",
+              "DocumentMoniker": "C:\\Users\\Gabi\\Desktop\\atestat3.0\\atestat3.0\\GridJoc.cs",
+              "RelativeDocumentMoniker": "atestat3.0\\GridJoc.cs",
+              "ToolTip": "C:\\Users\\Gabi\\Desktop\\atestat3.0\\atestat3.0\\GridJoc.cs",
+              "RelativeToolTip": "atestat3.0\\GridJoc.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T06:50:48.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TemaManager.cs",
+              "DocumentMoniker": "C:\\Users\\Gabi\\Desktop\\atestat3.0\\atestat3.0\\TemaManager.cs",
+              "RelativeDocumentMoniker": "atestat3.0\\TemaManager.cs",
+              "ToolTip": "C:\\Users\\Gabi\\Desktop\\atestat3.0\\atestat3.0\\TemaManager.cs",
+              "RelativeToolTip": "atestat3.0\\TemaManager.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T06:54:46.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Important.cs",
+              "DocumentMoniker": "C:\\Users\\Gabi\\Desktop\\atestat3.0\\atestat3.0\\Important.cs",
+              "RelativeDocumentMoniker": "atestat3.0\\Important.cs",
+              "ToolTip": "C:\\Users\\Gabi\\Desktop\\atestat3.0\\atestat3.0\\Important.cs",
+              "RelativeToolTip": "atestat3.0\\Important.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T06:52:49.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Utilizator.cs",
+              "DocumentMoniker": "C:\\Users\\Gabi\\Desktop\\atestat3.0\\atestat3.0\\Utilizator.cs",
+              "RelativeDocumentMoniker": "atestat3.0\\Utilizator.cs",
+              "ToolTip": "C:\\Users\\Gabi\\Desktop\\atestat3.0\\atestat3.0\\Utilizator.cs",
+              "RelativeToolTip": "atestat3.0\\Utilizator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T06:53:15.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RezolvariManager.cs",
+              "DocumentMoniker": "C:\\Users\\Gabi\\Desktop\\atestat3.0\\atestat3.0\\RezolvariManager.cs",
+              "RelativeDocumentMoniker": "atestat3.0\\RezolvariManager.cs",
+              "ToolTip": "C:\\Users\\Gabi\\Desktop\\atestat3.0\\atestat3.0\\RezolvariManager.cs",
+              "RelativeToolTip": "atestat3.0\\RezolvariManager.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T06:55:47.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RebusManager.cs",
+              "DocumentMoniker": "C:\\Users\\Gabi\\Desktop\\atestat3.0\\atestat3.0\\RebusManager.cs",
+              "RelativeDocumentMoniker": "atestat3.0\\RebusManager.cs",
+              "ToolTip": "C:\\Users\\Gabi\\Desktop\\atestat3.0\\atestat3.0\\RebusManager.cs",
+              "RelativeToolTip": "atestat3.0\\RebusManager.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T06:56:59.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmAlegeRebus.cs",
+              "DocumentMoniker": "C:\\Users\\Gabi\\Desktop\\atestat3.0\\atestat3.0\\FrmAlegeRebus.cs",
+              "RelativeDocumentMoniker": "atestat3.0\\FrmAlegeRebus.cs",
+              "ToolTip": "C:\\Users\\Gabi\\Desktop\\atestat3.0\\atestat3.0\\FrmAlegeRebus.cs",
+              "RelativeToolTip": "atestat3.0\\FrmAlegeRebus.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAgwHcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T07:15:09.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmAlegeRebus.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Gabi\\Desktop\\atestat3.0\\atestat3.0\\FrmAlegeRebus.cs",
+              "RelativeDocumentMoniker": "atestat3.0\\FrmAlegeRebus.cs",
+              "ToolTip": "C:\\Users\\Gabi\\Desktop\\atestat3.0\\atestat3.0\\FrmAlegeRebus.cs [Design]",
+              "RelativeToolTip": "atestat3.0\\FrmAlegeRebus.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T21:05:45.646Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
