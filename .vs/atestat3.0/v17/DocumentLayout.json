@@ -62,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 208,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -75,6 +75,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
@@ -119,7 +123,7 @@
               "RelativeDocumentMoniker": "atestat3.0\\FrmJoc.cs",
               "ToolTip": "C:\\Users\\Gabi\\Desktop\\atestat3.0\\atestat3.0\\FrmJoc.cs",
               "RelativeToolTip": "atestat3.0\\FrmJoc.cs",
-              "ViewState": "AgIAAKAAAAAAAAAAAAAiwLIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAnwIUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-03T09:25:52.391Z",
               "EditorCaption": ""

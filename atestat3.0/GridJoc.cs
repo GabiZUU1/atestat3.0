@@ -27,7 +27,7 @@ namespace atestat3._0
         public List<TipCelula> tipCeluleSelectate { get; set; } = new List<TipCelula>();
 
 
-        private TextBox tb;
+        public TextBox tb;
         public bool tbActiv { get; set; } = false;
 
 
@@ -275,16 +275,22 @@ namespace atestat3._0
                     break;
             }
 
-            if(celuleSelectate.Contains(celulaSelectata))
+            if (celuleSelectate.Contains(celulaSelectata))
             {
                 tipCeluleSelectate[celuleSelectate.IndexOf(celulaSelectata)] = tipCelulaSelectata;
             }
 
-            var pozCel = GasestePozitieCelula(celuleSelectate[0]);
+            for (int ind = 0; ind < celuleSelectate.Count; ind++)
+            {
+                celulaSelectata = celuleSelectate[ind];
+                celulaSelectataPoz = GasestePozitieCelula(celulaSelectata);
+                tipCelulaSelectata = tipCeluleSelectate[ind];
 
-            celulaSelectata = celuleSelectate[0];
-            celulaSelectataPoz = GasestePozitieCelula(celulaSelectata);
-            tipCelulaSelectata = tipCeluleSelectate[0];
+                if (!celulaSelectata.CorectaLinie && !celulaSelectata.CorectaColoana)
+                {
+                    break;
+                }
+            }
         }
 
         public void IncarcaTextBox()
@@ -506,7 +512,7 @@ namespace atestat3._0
 
         private void VerificaScor()
         {
-            if(this.Scor == this.Rebus.Rezolvari.Count)
+            if (this.Scor == this.Rebus.Rezolvari.Count)
             {
                 (Important.ferestreDeschise.Find(f => f.Name == "FrmJoc") as FrmJoc).StopTimer();
                 this._parent.Enabled = false;

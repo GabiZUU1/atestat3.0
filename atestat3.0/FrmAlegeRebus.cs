@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace atestat3._0
 {
-    public partial class FrmAlegeRebus: Form
+    public partial class FrmAlegeRebus : Form
     {
         private CustomMenu cm;
         public FrmAlegeRebus()
@@ -73,7 +73,7 @@ namespace atestat3._0
         private Rebus rebusAles = null;
         private void FrmAlegeRebus_Load(object sender, EventArgs e)
         {
-            foreach(Rebus r in Important.rebusuri.Reverse<Rebus>())
+            foreach (Rebus r in Important.rebusuri.Reverse<Rebus>())
             {
                 MenuButton mb = new MenuButton(r.Denumire);
                 mb.Tag = r;
@@ -89,7 +89,7 @@ namespace atestat3._0
                 };
                 mb.MouseLeave += (se, ar) =>
                 {
-                    if(rebusAles != null)
+                    if (rebusAles != null)
                     {
                         lblDenumire.Text = "Denumire: " + rebusAles.Denumire;
                         lblLinii.Text = "Numar linii: " + rebusAles.NrLinii.ToString();
@@ -97,7 +97,7 @@ namespace atestat3._0
                         lblTimp.Text = "Timp estimat: " + rebusAles.TimpEstimat.ToString();
 
 
-                        lblDenumire.Visible = lblLinii.Visible = lblColoane.Visible = lblTimp.Visible = btnAlege.Visible =  true;
+                        lblDenumire.Visible = lblLinii.Visible = lblColoane.Visible = lblTimp.Visible = btnAlege.Visible = true;
                     }
                     else
                     {
@@ -117,7 +117,7 @@ namespace atestat3._0
 
                 cm.AdaugaButon(mb);
             }
-        }   
+        }
 
         private void btnAlege_Click(object sender, EventArgs e)
         {
@@ -130,7 +130,7 @@ namespace atestat3._0
 
         private void btnRebusuri_Click(object sender, EventArgs e)
         {
-            btnRebusuri.BackgroundImage = null;
+            btnRebusuri.BackgroundImage = !cm.Visible ? null : Important.imgSageataJos;
             cm.Visible = !cm.Visible;
         }
     }

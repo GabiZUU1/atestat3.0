@@ -73,6 +73,7 @@ namespace atestat3._0
             if(!Utilizator.EmailCorect(txtEmail.Text.Trim()))
             {
                 new CustomMessageBox().ShowDialog("Adresa de email nu este valida!", ButoaneCustomMessageBox.Ok);
+                return;
             }
 
             if(txtEmail.Text.Trim() == string.Empty || txtParola.Text.Trim() == string.Empty)

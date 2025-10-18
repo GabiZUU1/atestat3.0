@@ -19,7 +19,7 @@ namespace atestat3._0
                 FrmJoc_KeyDown(this, new KeyEventArgs(keyData));
                 return true;
             }
-            else if (keyData == Keys.Enter && !gj.tbActiv)
+            else if (keyData == Keys.Enter && gj != null && !gj.tbActiv)
             {
                 gj.IncarcaTextBox();
                 return true;
@@ -131,6 +131,11 @@ namespace atestat3._0
                 cmRebus.Visible = false;
                 cmSetari.Visible = false;
                 cmAdmin.Visible = false;
+
+                if (gj != null && gj.tbActiv)
+                {
+                    gj.tb.Focus();
+                }
             };
 
             cmAdmin.AdaugaButon(aMb1);
@@ -147,6 +152,11 @@ namespace atestat3._0
 
                 AplicaSetariJoc(Important.utilizatorCurent.SetariJoc);
                 gj?.AplicaSetari(); //DACA NU ESTE NULL FACE FUNCTIA ("?" => != NULL)
+
+                if(gj != null && gj.tbActiv)
+                {
+                    gj.tb.Focus();
+                }
             };
 
             MenuButton sMb2 = new MenuButton();
@@ -157,6 +167,11 @@ namespace atestat3._0
                 cmRebus.Visible = false;
                 cmSetari.Visible = false;
                 cmAdmin.Visible = false;
+
+                if (gj != null && gj.tbActiv)
+                {
+                    gj.tb.Focus();
+                }
             };
 
             cmSetari.AdaugaButon(sMb2);
@@ -244,7 +259,7 @@ namespace atestat3._0
         private void FrmJoc_KeyDown(object sender, KeyEventArgs e)
         {
             if (gj == null) return;
-            if (gj.tbActiv) return;
+            if (gj != null && gj.tbActiv) return;
 
             if (e.KeyValue == (char)Keys.A || e.KeyValue == (char)Keys.Left)
             {

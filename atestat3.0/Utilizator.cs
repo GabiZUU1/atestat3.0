@@ -60,7 +60,6 @@ namespace atestat3._0
             Regex rEmail = new Regex(@"\w+([-+.]\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*");
             if (!rEmail.IsMatch(email))
             {
-                new CustomMessageBox(TipuriCustomMessageBox.Atentie).ShowDialog("Adresa de email nu este valida!", ButoaneCustomMessageBox.Ok);
                 return false;
             }
             return true;
